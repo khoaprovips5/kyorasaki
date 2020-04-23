@@ -1,0 +1,26 @@
+body{
+	background-image:url('./mm.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin:0;
+}
+h1{
+	color:#3db9de;
+	font-style:italic;
+	font-weight:bold;
+	text-decoration:underline;
+	text-align:center;
+}
+h2{
+	color:#b92191;
+	font-style:italic;
+	text-align:center;	
+}
+.audio{
+	display:block;
+	margin: 10px auto;
+}
+a{
+	text-decoration:none;
+	color:black;font-size:15px;
+}
